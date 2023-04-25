@@ -11,7 +11,7 @@
 
 - 🌱 В данную минуту учу: **TypeScript**
 
-- 💬 Спросите меня о: **Javascript, React и почему я выбрал frontend**
+- 💬 Спросите меня о: **Javascript, React**
 
 - 📫 Как со мной связаться: **ukunsss7@gmail.com**
 
