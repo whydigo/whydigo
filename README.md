@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whydigo&label=Profile%20views&color=0e75b6&style=flat" alt="whydigo" /> </p>
 
-- 🔭 В настоящее время, я работаю над проектом: [Electronics Frontend](https://github.com/whydigo/electronics_frontend)
-
-- 🤝 Чуть про Backend часть не забыл: [Electronics Backend](https://github.com/whydigo/electronics_backend)
+- 🔭 В настоящее время, я работаю над проектом Electronics: <br /> 
+  - [frontend](https://github.com/whydigo/electronics_frontend)
+  - [backend](https://github.com/whydigo/electronics_backend)
 
 - 🌱 В данную минуту учу: **TypeScript**
 
