@@ -9,7 +9,7 @@
   - [frontend](https://github.com/whydigo/electronics_frontend)
   - [backend](https://github.com/whydigo/electronics_backend)
 
-- 🌱 В данную минуту учу: **TypeScript**
+- 🌱 В данную минуту изучаю: **TypeScript**
 
 - 💬 Спросите меня о: **Javascript, React**
 
