@@ -6,7 +6,7 @@
 
 <h3>Мои проекты:</h3>
 
- В настоящее время, я работаю над проектом "Electronics": <br /> 
+Интернет-магазин "Electronics": <br /> 
   - [frontend](https://github.com/whydigo/electronics_frontend)
   - [backend](https://github.com/whydigo/electronics_backend)
 
@@ -34,6 +34,6 @@
   
 Можете спросить меня о: **Javascript, React**
 
-Как со мной связаться: **whydigoh@gmail.com**
-
 Интересый факт: **Я всегда мечтал стать офисным клерком**
+
+Как со мной связаться: **whydigoh@gmail.com**
