@@ -55,12 +55,7 @@
 
 <hr />
 
-<h3> Обо мне: </h3>
+<h3> Вы можете связаться со мной по: </h3>
 
-В данную минуту изучаю: **TypeScript**
-  
-Можете спросить меня о: **Javascript, React**
-
-Интересый факт: **Я всегда мечтал стать офисным клерком**
-
-Как со мной связаться: **whydigoh@gmail.com**
+- [Email](https://mail.google.com/mail/u/1/?pli=1#inbox) 
+- [Telegram](https://t.me/whydigo)
