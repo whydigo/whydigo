@@ -54,7 +54,7 @@
 
 <hr />
 
-<h3> Вы можете связаться со мной по: </h3>
+<h3> Вы можете связаться со мной через: </h3>
 
 - [Email](https://mail.google.com/mail/u/1/?pli=1#inbox) 
 - [Telegram](https://t.me/whydigo)
