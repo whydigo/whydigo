@@ -1,4 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://whydigo.io)
 <h1 align="center">Здравствуйте, я Харун!</h1>
 <h3 align="center">Frontend Разработчик из России.</h3>
 
