@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whydigo&label=Profile%20views&color=0e75b6&style=flat" alt="whydigo" /> </p>
 
-<h3>Участвовал в следующих проектах:</h3>
+<h3>Принимал участие в следующих проектах:</h3>
 
 Интернет-магазин "Electronics": <br /> 
   - [frontend](https://github.com/whydigo/electronics_frontend)
