@@ -29,7 +29,7 @@
   - Redux Thunk - Redux Toolkit
   - Npm - Git - Webpack
   - Express - MongoDB - NodeJS
-  - Bootstrap - Ant Design
+  - Bootstrap - Ant Design - Material UI
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
