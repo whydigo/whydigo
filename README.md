@@ -23,7 +23,6 @@
 
 <hr />
 
-
 <h3 align="left">Языки и инструменты:</h3>
 
   - HTML - CSS - JavaScript - TypeScript
