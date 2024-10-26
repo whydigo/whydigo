@@ -51,11 +51,3 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11490474241551942136-512.png" />
 </br>
-
-
-<hr />
-
-<h3> Вы можете связаться со мной через: </h3>
-
-- [Telegram](https://t.me/whydigo)
-- [Email](Добавить) 
